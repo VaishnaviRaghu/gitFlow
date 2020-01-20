@@ -1,0 +1,4 @@
+controllers:
+    resource: ../../src/Modules/Uploads/Controller/
+    type: annotation
+    prefix: /api/file-upload-management/v1
